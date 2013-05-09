@@ -45,6 +45,8 @@
 
 <h3>七、当下开放职位</h3>
 
+<pre>
+
 <h5>职位1：手机客户端工程师（javascript）</h5>
 
 职责：
@@ -124,6 +126,7 @@ iOS/Android平台下游戏开发
 熟悉Linux系统包括Mail, VPN, FTP, Netfilter, MySQL
 熟悉路由器，交换机、防火墙的网络设备设置与管理Windows域管理经验
 
+</pre>
 
 <h3>应聘岗位</h3>
 请向我们证明你精通上述一件或多件事，请发送简历给我xinqian.li@37-int.com
